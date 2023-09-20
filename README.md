@@ -3,7 +3,7 @@
 
 🔭 **Descripción del Proyecto**
 
-Este proyecto busca predecir el precio de inmuebles en diferentes ciudades utilizando diversos factores como la ubicación, número de habitaciones, baños, poderadquisitivo, inseguridad, y más. La modelización se lleva a cabo utilizando técnicas de machine learning, específicamente regresión lineal, con el fin de generar un modelo robusto y confiable.
+Este proyecto busca predecir el precio de inmuebles en diferentes ciudades utilizando diversos factores como la ubicación, número de habitaciones, baños, poder adquisitivo, inseguridad, y más. La modelización se lleva a cabo utilizando técnicas de machine learning, específicamente regresión lineal, con el fin de generar un modelo robusto y confiable.
 
 ✨**Herramientas Utilizadas**
   - Google Colaboratory
