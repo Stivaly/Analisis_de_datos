@@ -5,6 +5,8 @@
 
 Este proyecto busca predecir el precio de inmuebles en diferentes ciudades utilizando diversos factores como la ubicación, número de habitaciones, baños, poder adquisitivo, inseguridad, y más. La modelización se lleva a cabo utilizando técnicas de machine learning, específicamente regresión lineal, con el fin de generar un modelo robusto y confiable.
 
+El Análisis en Bogotá fue realizado con un gran apoyo por parte del equipo de Alura Latam, por lo que para mi desarrollo y práctica he decidido continuar esta linea de aprendizaje, replicando en diferentes ciudades adicionales donde yo estoy haciendo toda la investigación de metadatos y el trabajo de investigación de las variables clave y las correlaciones necesarias. 
+
 ✨**Herramientas Utilizadas**
   - Google Colaboratory
   - Python
